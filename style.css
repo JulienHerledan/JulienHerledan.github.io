@@ -1,0 +1,52 @@
+/* création collone de gauche*/
+
+.wrapper {
+    display: flex;
+}
+
+
+
+aside{
+    background-color: #008080;
+    color: white;
+    width: 30%;
+    height: 100%;
+    height: auto;
+    display: flex;
+}
+
+#compétences-clés span {
+    font-weight: bold;
+}
+
+#compétences-clés li {
+    font-size: 50%;
+}
+
+/*     partie droite    */
+h1 h2 h3 h4 h5{
+    font-weight:900 ;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline #008080;
+}
+
+h3 {
+    background-color: #008080;
+    color:white;
+}
+
+
+
+/* création bloc expéreiences pro et formations  */
+
+
+#expériences-profesionnelles{
+    background-color: yellow;
+}
